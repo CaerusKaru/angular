@@ -2,7 +2,7 @@
 * text=auto
 
 # JS and TS files must always use LF for tools to work
-*.js eol=lf
+*.js eol=lfs
 *.ts eol=lf
 
 # Must keep Windows line ending to be parsed correctly
