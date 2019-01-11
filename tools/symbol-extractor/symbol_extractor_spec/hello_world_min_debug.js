@@ -1,6 +1,6 @@
 /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
@@ -10,14 +10,14 @@
   'use strict';
   /**
 *@license
-*Copyright Google Inc. All Rights Reserved.
+*Copyright Google LLC. All Rights Reserved.
 *
 *Use of this source code is governed by an MIT-style license that can be
 *found in the LICENSE file at https://angular.io/license
 */
   /**
 *@license
-*Copyright Google Inc. All Rights Reserved.
+*Copyright Google LLC. All Rights Reserved.
 *
 *Use of this source code is governed by an MIT-style license that can be
 *found in the LICENSE file at https://angular.io/license
@@ -28,7 +28,7 @@
   ChangeDetectorStatus || (ChangeDetectorStatus = {});
   /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
@@ -36,14 +36,14 @@
   ViewEncapsulation || (ViewEncapsulation = {});
   /**
 *@license
-*Copyright Google Inc. All Rights Reserved.
+*Copyright Google LLC. All Rights Reserved.
 *
 *Use of this source code is governed by an MIT-style license that can be
 *found in the LICENSE file at https://angular.io/license
 */
   /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
@@ -54,7 +54,7 @@
       'undefined' != typeof global && global;
   /**
 *@license
-*Copyright Google Inc. All Rights Reserved.
+*Copyright Google LLC. All Rights Reserved.
 *
 *Use of this source code is governed by an MIT-style license that can be
 *found in the LICENSE file at https://angular.io/license
@@ -62,7 +62,7 @@
   String;
   /**
 *@license
-*Copyright Google Inc. All Rights Reserved.
+*Copyright Google LLC. All Rights Reserved.
 *
 *Use of this source code is governed by an MIT-style license that can be
 *found in the LICENSE file at https://angular.io/license
@@ -132,28 +132,28 @@
         }
         /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */
         /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */
         /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */
         /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
@@ -165,14 +165,14 @@
   };
   /**
 *@license
-*Copyright Google Inc. All Rights Reserved.
+*Copyright Google LLC. All Rights Reserved.
 *
 *Use of this source code is governed by an MIT-style license that can be
 *found in the LICENSE file at https://angular.io/license
 */
   /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
@@ -211,7 +211,7 @@
   }
   /**
 *@license
-*Copyright Google Inc. All Rights Reserved.
+*Copyright Google LLC. All Rights Reserved.
 *
 *Use of this source code is governed by an MIT-style license that can be
 *found in the LICENSE file at https://angular.io/license
@@ -401,49 +401,49 @@
   }
   /**
 *@license
-*Copyright Google Inc. All Rights Reserved.
+*Copyright Google LLC. All Rights Reserved.
 *
 *Use of this source code is governed by an MIT-style license that can be
 *found in the LICENSE file at https://angular.io/license
 */
   /**
 *@license
-*Copyright Google Inc. All Rights Reserved.
+*Copyright Google LLC. All Rights Reserved.
 *
 *Use of this source code is governed by an MIT-style license that can be
 *found in the LICENSE file at https://angular.io/license
 */
   /**
 *@license
-*Copyright Google Inc. All Rights Reserved.
+*Copyright Google LLC. All Rights Reserved.
 *
 *Use of this source code is governed by an MIT-style license that can be
 *found in the LICENSE file at https://angular.io/license
 */
   /**
 *@license
-*Copyright Google Inc. All Rights Reserved.
+*Copyright Google LLC. All Rights Reserved.
 *
 *Use of this source code is governed by an MIT-style license that can be
 *found in the LICENSE file at https://angular.io/license
 */
   /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */ Object;
   /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */ !
       /**
    * @license
-   * Copyright Google Inc. All Rights Reserved.
+   * Copyright Google LLC. All Rights Reserved.
    *
    * Use of this source code is governed by an MIT-style license that can be
    * found in the LICENSE file at https://angular.io/license
@@ -505,7 +505,7 @@
             !
                 /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
@@ -532,14 +532,14 @@
         }
         /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
  */
         /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
@@ -636,14 +636,14 @@
                 }
                 /**
 * @license
-* Copyright Google Inc. All Rights Reserved.
+* Copyright Google LLC. All Rights Reserved.
 *
 * Use of this source code is governed by an MIT-style license that can be
 * found in the LICENSE file at https://angular.io/license
 */
                 /**
  * @license
- * Copyright Google Inc. All Rights Reserved.
+ * Copyright Google LLC. All Rights Reserved.
  *
  * Use of this source code is governed by an MIT-style license that can be
  * found in the LICENSE file at https://angular.io/license
